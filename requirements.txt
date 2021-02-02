@@ -14,7 +14,7 @@ lxml==4.6.2
 MarkupSafe==1.1.1
 mccabe==0.6.1
 numpy==1.19.5
-pandas==1.2.1
+pandas==1.1.5
 Pillow==8.1.0
 pycodestyle==2.6.0
 pylint==2.6.0
